@@ -50,9 +50,9 @@ def generate_dates(start: str, end: str) -> List[str]:
     return dates
 
 
-ALL_DATES = generate_dates('20250407', '20250620')
-BASE_DATES = generate_dates('20250407', '20250525')
-COMPARE_DATES = generate_dates('20250526', '20250620')
+ALL_DATES = generate_dates('20250407', '20260226')
+BASE_DATES = generate_dates('20250407', '20260226')
+COMPARE_DATES = generate_dates('20250526', '20260226')
 
 # Output filenames - 使用中文讓檔名更直觀
 RECORDS_FILE = f"台股最高價紀錄_{ALL_DATES[0]}_{ALL_DATES[-1]}.xlsx"

@@ -1,280 +1,720 @@
-2025-06-23 14:41:44,273 已下載日期記錄檔案不存在，建立新檔案
-2025-06-23 14:41:44,273 總共需要處理 55 個日期
-2025-06-23 14:41:44,273 已下載過的日期: 0 個
-2025-06-23 14:41:44,273 需要新下載的日期: 55 個
-2025-06-23 14:41:44,274 開始下載新日期: ['20250407', '20250408', '20250409', '20250410', '20250411', '20250414', '20250415', '20250416', '20250417', '20250418', '20250421', '20250422', '20250423', '20250424', '20250425', '20250428', '20250429', '20250430', '20250501', '20250502', '20250505', '20250506', '20250507', '20250508', '20250509', '20250512', '20250513', '20250514', '20250515', '20250516', '20250519', '20250520', '20250521', '20250522', '20250523', '20250526', '20250527', '20250528', '20250529', '20250530', '20250602', '20250603', '20250604', '20250605', '20250606', '20250609', '20250610', '20250611', '20250612', '20250613', '20250616', '20250617', '20250618', '20250619', '20250620']
-2025-06-23 14:41:44,277 Start download 20250407
-2025-06-23 14:41:46,888 Downloaded 20250407
-2025-06-23 14:41:46,908 Parsed 1047 records for 20250407
-2025-06-23 14:41:46,908 記錄已下載日期: 20250407
-2025-06-23 14:41:46,915 快取資料儲存成功: 20250407
-2025-06-23 14:41:46,916 Start download 20250408
-2025-06-23 14:41:48,460 Downloaded 20250408
-2025-06-23 14:41:48,482 Parsed 1048 records for 20250408
-2025-06-23 14:41:48,482 記錄已下載日期: 20250408
-2025-06-23 14:41:48,489 快取資料儲存成功: 20250408
-2025-06-23 14:41:48,490 Start download 20250409
-2025-06-23 14:41:50,218 Downloaded 20250409
-2025-06-23 14:41:50,238 Parsed 1048 records for 20250409
-2025-06-23 14:41:50,239 記錄已下載日期: 20250409
-2025-06-23 14:41:50,246 快取資料儲存成功: 20250409
-2025-06-23 14:41:50,246 Start download 20250410
-2025-06-23 14:41:53,002 Downloaded 20250410
-2025-06-23 14:41:53,020 Parsed 1048 records for 20250410
-2025-06-23 14:41:53,020 記錄已下載日期: 20250410
-2025-06-23 14:41:53,027 快取資料儲存成功: 20250410
-2025-06-23 14:41:53,027 Start download 20250411
-2025-06-23 14:41:55,811 Downloaded 20250411
-2025-06-23 14:41:55,832 Parsed 1045 records for 20250411
-2025-06-23 14:41:55,833 記錄已下載日期: 20250411
-2025-06-23 14:41:55,839 快取資料儲存成功: 20250411
-2025-06-23 14:41:55,840 Start download 20250414
-2025-06-23 14:41:57,575 Downloaded 20250414
-2025-06-23 14:41:57,593 Parsed 1047 records for 20250414
-2025-06-23 14:41:57,594 記錄已下載日期: 20250414
-2025-06-23 14:41:57,601 快取資料儲存成功: 20250414
-2025-06-23 14:41:57,602 Start download 20250415
-2025-06-23 14:42:01,403 Downloaded 20250415
-2025-06-23 14:42:01,432 Parsed 1047 records for 20250415
-2025-06-23 14:42:01,433 記錄已下載日期: 20250415
-2025-06-23 14:42:01,440 快取資料儲存成功: 20250415
-2025-06-23 14:42:01,440 Start download 20250416
-2025-06-23 14:42:03,198 Downloaded 20250416
-2025-06-23 14:42:03,215 Parsed 1048 records for 20250416
-2025-06-23 14:42:03,216 記錄已下載日期: 20250416
-2025-06-23 14:42:03,223 快取資料儲存成功: 20250416
-2025-06-23 14:42:03,223 Start download 20250417
-2025-06-23 14:42:04,977 Downloaded 20250417
-2025-06-23 14:42:04,997 Parsed 1045 records for 20250417
-2025-06-23 14:42:04,998 記錄已下載日期: 20250417
-2025-06-23 14:42:05,004 快取資料儲存成功: 20250417
-2025-06-23 14:42:05,005 Start download 20250418
-2025-06-23 14:42:07,685 Downloaded 20250418
-2025-06-23 14:42:07,704 Parsed 1045 records for 20250418
-2025-06-23 14:42:07,704 記錄已下載日期: 20250418
-2025-06-23 14:42:07,711 快取資料儲存成功: 20250418
-2025-06-23 14:42:07,711 Start download 20250421
-2025-06-23 14:42:09,461 Downloaded 20250421
-2025-06-23 14:42:09,481 Parsed 1043 records for 20250421
-2025-06-23 14:42:09,482 記錄已下載日期: 20250421
-2025-06-23 14:42:09,489 快取資料儲存成功: 20250421
-2025-06-23 14:42:09,489 Start download 20250422
-2025-06-23 14:42:13,464 Downloaded 20250422
-2025-06-23 14:42:13,484 Parsed 1045 records for 20250422
-2025-06-23 14:42:13,484 記錄已下載日期: 20250422
-2025-06-23 14:42:13,491 快取資料儲存成功: 20250422
-2025-06-23 14:42:13,492 Start download 20250423
-2025-06-23 14:42:15,276 Downloaded 20250423
-2025-06-23 14:42:15,295 Parsed 1043 records for 20250423
-2025-06-23 14:42:15,295 記錄已下載日期: 20250423
-2025-06-23 14:42:15,302 快取資料儲存成功: 20250423
-2025-06-23 14:42:15,303 Start download 20250424
-2025-06-23 14:42:16,841 Downloaded 20250424
-2025-06-23 14:42:16,861 Parsed 1042 records for 20250424
-2025-06-23 14:42:16,861 記錄已下載日期: 20250424
-2025-06-23 14:42:16,870 快取資料儲存成功: 20250424
-2025-06-23 14:42:16,871 Start download 20250425
-2025-06-23 14:42:18,588 Downloaded 20250425
-2025-06-23 14:42:18,609 Parsed 1047 records for 20250425
-2025-06-23 14:42:18,609 記錄已下載日期: 20250425
-2025-06-23 14:42:18,618 快取資料儲存成功: 20250425
-2025-06-23 14:42:18,619 Start download 20250428
-2025-06-23 14:42:20,336 Downloaded 20250428
-2025-06-23 14:42:20,355 Parsed 1041 records for 20250428
-2025-06-23 14:42:20,356 記錄已下載日期: 20250428
-2025-06-23 14:42:20,363 快取資料儲存成功: 20250428
-2025-06-23 14:42:20,363 Start download 20250429
-2025-06-23 14:42:23,123 Downloaded 20250429
-2025-06-23 14:42:23,141 Parsed 1049 records for 20250429
-2025-06-23 14:42:23,142 記錄已下載日期: 20250429
-2025-06-23 14:42:23,149 快取資料儲存成功: 20250429
-2025-06-23 14:42:23,150 Start download 20250430
-2025-06-23 14:42:24,679 Downloaded 20250430
-2025-06-23 14:42:24,705 Parsed 1048 records for 20250430
-2025-06-23 14:42:24,705 記錄已下載日期: 20250430
-2025-06-23 14:42:24,716 快取資料儲存成功: 20250430
-2025-06-23 14:42:24,716 Start download 20250501
-2025-06-23 14:42:24,782 Downloaded 20250501
-2025-06-23 14:42:24,782 Parsed 0 records for 20250501
-2025-06-23 14:42:24,783 Start download 20250502
-2025-06-23 14:42:26,486 Downloaded 20250502
-2025-06-23 14:42:26,504 Parsed 1047 records for 20250502
-2025-06-23 14:42:26,504 記錄已下載日期: 20250502
-2025-06-23 14:42:26,512 快取資料儲存成功: 20250502
-2025-06-23 14:42:26,513 Start download 20250505
-2025-06-23 14:42:28,280 Downloaded 20250505
-2025-06-23 14:42:28,300 Parsed 1046 records for 20250505
-2025-06-23 14:42:28,301 記錄已下載日期: 20250505
-2025-06-23 14:42:28,310 快取資料儲存成功: 20250505
-2025-06-23 14:42:28,310 Start download 20250506
-2025-06-23 14:42:32,137 Downloaded 20250506
-2025-06-23 14:42:32,154 Parsed 1046 records for 20250506
-2025-06-23 14:42:32,155 記錄已下載日期: 20250506
-2025-06-23 14:42:32,162 快取資料儲存成功: 20250506
-2025-06-23 14:42:32,163 Start download 20250507
-2025-06-23 14:42:33,696 Downloaded 20250507
-2025-06-23 14:42:33,714 Parsed 1046 records for 20250507
-2025-06-23 14:42:33,714 記錄已下載日期: 20250507
-2025-06-23 14:42:33,721 快取資料儲存成功: 20250507
-2025-06-23 14:42:33,722 Start download 20250508
-2025-06-23 14:42:35,249 Downloaded 20250508
-2025-06-23 14:42:35,268 Parsed 1043 records for 20250508
-2025-06-23 14:42:35,269 記錄已下載日期: 20250508
-2025-06-23 14:42:35,276 快取資料儲存成功: 20250508
-2025-06-23 14:42:35,276 Start download 20250509
-2025-06-23 14:42:37,870 Downloaded 20250509
-2025-06-23 14:42:37,887 Parsed 1046 records for 20250509
-2025-06-23 14:42:37,888 記錄已下載日期: 20250509
-2025-06-23 14:42:37,896 快取資料儲存成功: 20250509
-2025-06-23 14:42:37,897 Start download 20250512
-2025-06-23 14:42:39,400 Downloaded 20250512
-2025-06-23 14:42:39,419 Parsed 1049 records for 20250512
-2025-06-23 14:42:39,420 記錄已下載日期: 20250512
-2025-06-23 14:42:39,427 快取資料儲存成功: 20250512
-2025-06-23 14:42:39,428 Start download 20250513
-2025-06-23 14:42:41,984 Downloaded 20250513
-2025-06-23 14:42:42,001 Parsed 1041 records for 20250513
-2025-06-23 14:42:42,002 記錄已下載日期: 20250513
-2025-06-23 14:42:42,010 快取資料儲存成功: 20250513
-2025-06-23 14:42:42,010 Start download 20250514
-2025-06-23 14:42:44,642 Downloaded 20250514
-2025-06-23 14:42:44,660 Parsed 1048 records for 20250514
-2025-06-23 14:42:44,660 記錄已下載日期: 20250514
-2025-06-23 14:42:44,667 快取資料儲存成功: 20250514
-2025-06-23 14:42:44,668 Start download 20250515
-2025-06-23 14:42:46,188 Downloaded 20250515
-2025-06-23 14:42:46,213 Parsed 1043 records for 20250515
-2025-06-23 14:42:46,214 記錄已下載日期: 20250515
-2025-06-23 14:42:46,220 快取資料儲存成功: 20250515
-2025-06-23 14:42:46,221 Start download 20250516
-2025-06-23 14:42:48,921 Downloaded 20250516
-2025-06-23 14:42:48,938 Parsed 1047 records for 20250516
-2025-06-23 14:42:48,939 記錄已下載日期: 20250516
-2025-06-23 14:42:48,947 快取資料儲存成功: 20250516
-2025-06-23 14:42:48,947 Start download 20250519
-2025-06-23 14:42:51,475 Downloaded 20250519
-2025-06-23 14:42:51,492 Parsed 1045 records for 20250519
-2025-06-23 14:42:51,493 記錄已下載日期: 20250519
-2025-06-23 14:42:51,502 快取資料儲存成功: 20250519
-2025-06-23 14:42:51,502 Start download 20250520
-2025-06-23 14:42:54,197 Downloaded 20250520
-2025-06-23 14:42:54,215 Parsed 1046 records for 20250520
-2025-06-23 14:42:54,216 記錄已下載日期: 20250520
-2025-06-23 14:42:54,223 快取資料儲存成功: 20250520
-2025-06-23 14:42:54,224 Start download 20250521
-2025-06-23 14:42:57,227 Downloaded 20250521
-2025-06-23 14:42:57,243 Parsed 1048 records for 20250521
-2025-06-23 14:42:57,243 記錄已下載日期: 20250521
-2025-06-23 14:42:57,250 快取資料儲存成功: 20250521
-2025-06-23 14:42:57,250 Start download 20250522
-2025-06-23 14:43:00,027 Downloaded 20250522
-2025-06-23 14:43:00,050 Parsed 1044 records for 20250522
-2025-06-23 14:43:00,051 記錄已下載日期: 20250522
-2025-06-23 14:43:00,061 快取資料儲存成功: 20250522
-2025-06-23 14:43:00,061 Start download 20250523
-2025-06-23 14:43:02,745 Downloaded 20250523
-2025-06-23 14:43:02,761 Parsed 1044 records for 20250523
-2025-06-23 14:43:02,762 記錄已下載日期: 20250523
-2025-06-23 14:43:02,768 快取資料儲存成功: 20250523
-2025-06-23 14:43:02,769 Start download 20250526
-2025-06-23 14:43:06,494 Downloaded 20250526
-2025-06-23 14:43:06,510 Parsed 1049 records for 20250526
-2025-06-23 14:43:06,511 記錄已下載日期: 20250526
-2025-06-23 14:43:06,519 快取資料儲存成功: 20250526
-2025-06-23 14:43:06,520 Start download 20250527
-2025-06-23 14:43:09,322 Downloaded 20250527
-2025-06-23 14:43:09,339 Parsed 1050 records for 20250527
-2025-06-23 14:43:09,340 記錄已下載日期: 20250527
-2025-06-23 14:43:09,347 快取資料儲存成功: 20250527
-2025-06-23 14:43:09,348 Start download 20250528
-2025-06-23 14:43:12,068 Downloaded 20250528
-2025-06-23 14:43:12,086 Parsed 1044 records for 20250528
-2025-06-23 14:43:12,087 記錄已下載日期: 20250528
-2025-06-23 14:43:12,095 快取資料儲存成功: 20250528
-2025-06-23 14:43:12,095 Start download 20250529
-2025-06-23 14:43:14,801 Downloaded 20250529
-2025-06-23 14:43:14,817 Parsed 1045 records for 20250529
-2025-06-23 14:43:14,818 記錄已下載日期: 20250529
-2025-06-23 14:43:14,826 快取資料儲存成功: 20250529
-2025-06-23 14:43:14,827 Start download 20250530
-2025-06-23 14:43:15,891 Downloaded 20250530
-2025-06-23 14:43:15,891 Parsed 0 records for 20250530
-2025-06-23 14:43:15,891 Start download 20250602
-2025-06-23 14:43:18,589 Downloaded 20250602
-2025-06-23 14:43:18,605 Parsed 1044 records for 20250602
-2025-06-23 14:43:18,606 記錄已下載日期: 20250602
-2025-06-23 14:43:18,614 快取資料儲存成功: 20250602
-2025-06-23 14:43:18,615 Start download 20250603
-2025-06-23 14:43:21,293 Downloaded 20250603
-2025-06-23 14:43:21,309 Parsed 1050 records for 20250603
-2025-06-23 14:43:21,310 記錄已下載日期: 20250603
-2025-06-23 14:43:21,318 快取資料儲存成功: 20250603
-2025-06-23 14:43:21,318 Start download 20250604
-2025-06-23 14:43:24,026 Downloaded 20250604
-2025-06-23 14:43:24,043 Parsed 1049 records for 20250604
-2025-06-23 14:43:24,044 記錄已下載日期: 20250604
-2025-06-23 14:43:24,052 快取資料儲存成功: 20250604
-2025-06-23 14:43:24,053 Start download 20250605
-2025-06-23 14:43:26,735 Downloaded 20250605
-2025-06-23 14:43:26,752 Parsed 1046 records for 20250605
-2025-06-23 14:43:26,753 記錄已下載日期: 20250605
-2025-06-23 14:43:26,759 快取資料儲存成功: 20250605
-2025-06-23 14:43:26,760 Start download 20250606
-2025-06-23 14:43:29,398 Downloaded 20250606
-2025-06-23 14:43:29,416 Parsed 1043 records for 20250606
-2025-06-23 14:43:29,416 記錄已下載日期: 20250606
-2025-06-23 14:43:29,425 快取資料儲存成功: 20250606
-2025-06-23 14:43:29,425 Start download 20250609
-2025-06-23 14:43:31,014 Downloaded 20250609
-2025-06-23 14:43:31,031 Parsed 1039 records for 20250609
-2025-06-23 14:43:31,032 記錄已下載日期: 20250609
-2025-06-23 14:43:31,039 快取資料儲存成功: 20250609
-2025-06-23 14:43:31,040 Start download 20250610
-2025-06-23 14:43:32,477 Downloaded 20250610
-2025-06-23 14:43:32,495 Parsed 1051 records for 20250610
-2025-06-23 14:43:32,497 記錄已下載日期: 20250610
-2025-06-23 14:43:32,504 快取資料儲存成功: 20250610
-2025-06-23 14:43:32,505 Start download 20250611
-2025-06-23 14:43:33,964 Downloaded 20250611
-2025-06-23 14:43:33,980 Parsed 1050 records for 20250611
-2025-06-23 14:43:33,981 記錄已下載日期: 20250611
-2025-06-23 14:43:33,988 快取資料儲存成功: 20250611
-2025-06-23 14:43:33,988 Start download 20250612
-2025-06-23 14:43:35,623 Downloaded 20250612
-2025-06-23 14:43:35,638 Parsed 1046 records for 20250612
-2025-06-23 14:43:35,639 記錄已下載日期: 20250612
-2025-06-23 14:43:35,647 快取資料儲存成功: 20250612
-2025-06-23 14:43:35,648 Start download 20250613
-2025-06-23 14:43:38,266 Downloaded 20250613
-2025-06-23 14:43:38,282 Parsed 1049 records for 20250613
-2025-06-23 14:43:38,283 記錄已下載日期: 20250613
-2025-06-23 14:43:38,290 快取資料儲存成功: 20250613
-2025-06-23 14:43:38,290 Start download 20250616
-2025-06-23 14:43:41,008 Downloaded 20250616
-2025-06-23 14:43:41,024 Parsed 1052 records for 20250616
-2025-06-23 14:43:41,025 記錄已下載日期: 20250616
-2025-06-23 14:43:41,032 快取資料儲存成功: 20250616
-2025-06-23 14:43:41,033 Start download 20250617
-2025-06-23 14:43:43,801 Downloaded 20250617
-2025-06-23 14:43:43,817 Parsed 1052 records for 20250617
-2025-06-23 14:43:43,817 記錄已下載日期: 20250617
-2025-06-23 14:43:43,824 快取資料儲存成功: 20250617
-2025-06-23 14:43:43,825 Start download 20250618
-2025-06-23 14:43:45,249 Downloaded 20250618
-2025-06-23 14:43:45,265 Parsed 1053 records for 20250618
-2025-06-23 14:43:45,266 記錄已下載日期: 20250618
-2025-06-23 14:43:45,275 快取資料儲存成功: 20250618
-2025-06-23 14:43:45,275 Start download 20250619
-2025-06-23 14:43:46,880 Downloaded 20250619
-2025-06-23 14:43:46,897 Parsed 1052 records for 20250619
-2025-06-23 14:43:46,898 記錄已下載日期: 20250619
-2025-06-23 14:43:46,907 快取資料儲存成功: 20250619
-2025-06-23 14:43:46,908 Start download 20250620
-2025-06-23 14:43:49,727 Downloaded 20250620
-2025-06-23 14:43:49,745 Parsed 1051 records for 20250620
-2025-06-23 14:43:49,746 記錄已下載日期: 20250620
-2025-06-23 14:43:49,752 快取資料儲存成功: 20250620
-2025-06-23 14:43:49,753 有效資料日期數: 53
-2025-06-23 14:43:52,272 Saved price records to C:\Users\Angus\Desktop\StockAgentTest\CodexWebTest\output\台股最高價紀錄_20250407_20250620.xlsx
-2025-06-23 14:43:52,369 Saved comparison results to C:\Users\Angus\Desktop\StockAgentTest\CodexWebTest\output\台股創新高比較_20250526_20250620.xlsx
-2025-06-23 14:43:52,369 Analysis complete
+2026-02-27 18:24:34,611 載入 96 筆已下載日期記錄
+2026-02-27 18:24:34,611 總共需要處理 234 個日期
+2026-02-27 18:24:34,612 已下載過的日期: 84 個
+2026-02-27 18:24:34,612 需要新下載的日期: 150 個
+2026-02-27 18:24:34,613 開始下載新日期: ['20250501', '20250530', '20250623', '20250624', '20250625', '20250626', '20250627', '20250630', '20250701', '20250702', '20250703', '20250704', '20250707', '20250708', '20250709', '20250710', '20250711', '20250714', '20250715', '20250716', '20250717', '20250718', '20250721', '20250722', '20250723', '20250724', '20250725', '20250728', '20250729', '20250730', '20250731', '20250801', '20250804', '20250805', '20250806', '20250807', '20250808', '20250811', '20250812', '20250813', '20250814', '20250815', '20250818', '20250819', '20250820', '20250821', '20250822', '20250825', '20250826', '20250827', '20250828', '20250829', '20250901', '20250902', '20250903', '20250904', '20250905', '20250908', '20250909', '20250910', '20250911', '20250912', '20250915', '20250916', '20250917', '20250918', '20250919', '20250922', '20250923', '20250924', '20250925', '20250926', '20250929', '20250930', '20251001', '20251002', '20251003', '20251006', '20251007', '20251008', '20251009', '20251010', '20251013', '20251014', '20251015', '20251016', '20251017', '20251020', '20251021', '20251022', '20251023', '20251024', '20251027', '20251028', '20251029', '20251030', '20251031', '20251103', '20251104', '20251105', '20251106', '20251107', '20251110', '20251111', '20251112', '20251113', '20251114', '20251117', '20251118', '20251119', '20251120', '20251121', '20251124', '20251125', '20251126', '20251127', '20251128', '20251201', '20251202', '20251203', '20251204', '20251205', '20251208', '20251209', '20251210', '20251211', '20251212', '20251215', '20251216', '20251217', '20251218', '20251219', '20251222', '20251223', '20251224', '20251225', '20251226', '20251229', '20251230', '20251231', '20260101', '20260122', '20260128', '20260212', '20260213', '20260216', '20260217', '20260218', '20260219', '20260220']
+2026-02-27 18:24:34,613 日期 20250407 已下載過，從快取讀取資料
+2026-02-27 18:24:34,642 從快取載入 1047 筆記錄: 20250407
+2026-02-27 18:24:34,642 日期 20250408 已下載過，從快取讀取資料
+2026-02-27 18:24:34,652 從快取載入 1048 筆記錄: 20250408
+2026-02-27 18:24:34,652 日期 20250409 已下載過，從快取讀取資料
+2026-02-27 18:24:34,662 從快取載入 1048 筆記錄: 20250409
+2026-02-27 18:24:34,662 日期 20250410 已下載過，從快取讀取資料
+2026-02-27 18:24:34,672 從快取載入 1048 筆記錄: 20250410
+2026-02-27 18:24:34,672 日期 20250411 已下載過，從快取讀取資料
+2026-02-27 18:24:34,682 從快取載入 1045 筆記錄: 20250411
+2026-02-27 18:24:34,682 日期 20250414 已下載過，從快取讀取資料
+2026-02-27 18:24:34,694 從快取載入 1047 筆記錄: 20250414
+2026-02-27 18:24:34,694 日期 20250415 已下載過，從快取讀取資料
+2026-02-27 18:24:34,704 從快取載入 1047 筆記錄: 20250415
+2026-02-27 18:24:34,704 日期 20250416 已下載過，從快取讀取資料
+2026-02-27 18:24:34,713 從快取載入 1048 筆記錄: 20250416
+2026-02-27 18:24:34,713 日期 20250417 已下載過，從快取讀取資料
+2026-02-27 18:24:34,723 從快取載入 1045 筆記錄: 20250417
+2026-02-27 18:24:34,723 日期 20250418 已下載過，從快取讀取資料
+2026-02-27 18:24:34,733 從快取載入 1045 筆記錄: 20250418
+2026-02-27 18:24:34,733 日期 20250421 已下載過，從快取讀取資料
+2026-02-27 18:24:34,742 從快取載入 1043 筆記錄: 20250421
+2026-02-27 18:24:34,742 日期 20250422 已下載過，從快取讀取資料
+2026-02-27 18:24:34,753 從快取載入 1045 筆記錄: 20250422
+2026-02-27 18:24:34,753 日期 20250423 已下載過，從快取讀取資料
+2026-02-27 18:24:34,763 從快取載入 1043 筆記錄: 20250423
+2026-02-27 18:24:34,763 日期 20250424 已下載過，從快取讀取資料
+2026-02-27 18:24:34,778 從快取載入 1042 筆記錄: 20250424
+2026-02-27 18:24:34,779 日期 20250425 已下載過，從快取讀取資料
+2026-02-27 18:24:34,789 從快取載入 1047 筆記錄: 20250425
+2026-02-27 18:24:34,789 日期 20250428 已下載過，從快取讀取資料
+2026-02-27 18:24:34,808 從快取載入 1041 筆記錄: 20250428
+2026-02-27 18:24:34,808 日期 20250429 已下載過，從快取讀取資料
+2026-02-27 18:24:34,819 從快取載入 1049 筆記錄: 20250429
+2026-02-27 18:24:34,819 日期 20250430 已下載過，從快取讀取資料
+2026-02-27 18:24:34,829 從快取載入 1048 筆記錄: 20250430
+2026-02-27 18:24:34,829 Start download 20250501
+2026-02-27 18:24:34,912 Failed to download 20250501: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250501&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:34,912 Parsed 0 records for 20250501
+2026-02-27 18:24:34,912 日期 20250502 已下載過，從快取讀取資料
+2026-02-27 18:24:34,926 從快取載入 1047 筆記錄: 20250502
+2026-02-27 18:24:34,926 日期 20250505 已下載過，從快取讀取資料
+2026-02-27 18:24:34,938 從快取載入 1046 筆記錄: 20250505
+2026-02-27 18:24:34,938 日期 20250506 已下載過，從快取讀取資料
+2026-02-27 18:24:34,948 從快取載入 1046 筆記錄: 20250506
+2026-02-27 18:24:34,949 日期 20250507 已下載過，從快取讀取資料
+2026-02-27 18:24:34,959 從快取載入 1046 筆記錄: 20250507
+2026-02-27 18:24:34,959 日期 20250508 已下載過，從快取讀取資料
+2026-02-27 18:24:34,969 從快取載入 1043 筆記錄: 20250508
+2026-02-27 18:24:34,970 日期 20250509 已下載過，從快取讀取資料
+2026-02-27 18:24:34,980 從快取載入 1046 筆記錄: 20250509
+2026-02-27 18:24:34,980 日期 20250512 已下載過，從快取讀取資料
+2026-02-27 18:24:34,990 從快取載入 1049 筆記錄: 20250512
+2026-02-27 18:24:34,990 日期 20250513 已下載過，從快取讀取資料
+2026-02-27 18:24:35,001 從快取載入 1041 筆記錄: 20250513
+2026-02-27 18:24:35,001 日期 20250514 已下載過，從快取讀取資料
+2026-02-27 18:24:35,011 從快取載入 1048 筆記錄: 20250514
+2026-02-27 18:24:35,012 日期 20250515 已下載過，從快取讀取資料
+2026-02-27 18:24:35,021 從快取載入 1043 筆記錄: 20250515
+2026-02-27 18:24:35,022 日期 20250516 已下載過，從快取讀取資料
+2026-02-27 18:24:35,032 從快取載入 1047 筆記錄: 20250516
+2026-02-27 18:24:35,033 日期 20250519 已下載過，從快取讀取資料
+2026-02-27 18:24:35,042 從快取載入 1045 筆記錄: 20250519
+2026-02-27 18:24:35,042 日期 20250520 已下載過，從快取讀取資料
+2026-02-27 18:24:35,053 從快取載入 1046 筆記錄: 20250520
+2026-02-27 18:24:35,053 日期 20250521 已下載過，從快取讀取資料
+2026-02-27 18:24:35,063 從快取載入 1048 筆記錄: 20250521
+2026-02-27 18:24:35,063 日期 20250522 已下載過，從快取讀取資料
+2026-02-27 18:24:35,074 從快取載入 1044 筆記錄: 20250522
+2026-02-27 18:24:35,074 日期 20250523 已下載過，從快取讀取資料
+2026-02-27 18:24:35,085 從快取載入 1044 筆記錄: 20250523
+2026-02-27 18:24:35,085 日期 20250526 已下載過，從快取讀取資料
+2026-02-27 18:24:35,095 從快取載入 1049 筆記錄: 20250526
+2026-02-27 18:24:35,097 日期 20250527 已下載過，從快取讀取資料
+2026-02-27 18:24:35,106 從快取載入 1050 筆記錄: 20250527
+2026-02-27 18:24:35,106 日期 20250528 已下載過，從快取讀取資料
+2026-02-27 18:24:35,117 從快取載入 1044 筆記錄: 20250528
+2026-02-27 18:24:35,117 日期 20250529 已下載過，從快取讀取資料
+2026-02-27 18:24:35,127 從快取載入 1045 筆記錄: 20250529
+2026-02-27 18:24:35,127 Start download 20250530
+2026-02-27 18:24:35,176 Failed to download 20250530: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250530&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,177 Parsed 0 records for 20250530
+2026-02-27 18:24:35,177 日期 20250602 已下載過，從快取讀取資料
+2026-02-27 18:24:35,189 從快取載入 1044 筆記錄: 20250602
+2026-02-27 18:24:35,189 日期 20250603 已下載過，從快取讀取資料
+2026-02-27 18:24:35,202 從快取載入 1050 筆記錄: 20250603
+2026-02-27 18:24:35,202 日期 20250604 已下載過，從快取讀取資料
+2026-02-27 18:24:35,212 從快取載入 1049 筆記錄: 20250604
+2026-02-27 18:24:35,213 日期 20250605 已下載過，從快取讀取資料
+2026-02-27 18:24:35,223 從快取載入 1046 筆記錄: 20250605
+2026-02-27 18:24:35,223 日期 20250606 已下載過，從快取讀取資料
+2026-02-27 18:24:35,234 從快取載入 1043 筆記錄: 20250606
+2026-02-27 18:24:35,234 日期 20250609 已下載過，從快取讀取資料
+2026-02-27 18:24:35,244 從快取載入 1039 筆記錄: 20250609
+2026-02-27 18:24:35,245 日期 20250610 已下載過，從快取讀取資料
+2026-02-27 18:24:35,255 從快取載入 1051 筆記錄: 20250610
+2026-02-27 18:24:35,255 日期 20250611 已下載過，從快取讀取資料
+2026-02-27 18:24:35,265 從快取載入 1050 筆記錄: 20250611
+2026-02-27 18:24:35,266 日期 20250612 已下載過，從快取讀取資料
+2026-02-27 18:24:35,275 從快取載入 1046 筆記錄: 20250612
+2026-02-27 18:24:35,276 日期 20250613 已下載過，從快取讀取資料
+2026-02-27 18:24:35,286 從快取載入 1049 筆記錄: 20250613
+2026-02-27 18:24:35,286 日期 20250616 已下載過，從快取讀取資料
+2026-02-27 18:24:35,296 從快取載入 1052 筆記錄: 20250616
+2026-02-27 18:24:35,296 日期 20250617 已下載過，從快取讀取資料
+2026-02-27 18:24:35,306 從快取載入 1052 筆記錄: 20250617
+2026-02-27 18:24:35,306 日期 20250618 已下載過，從快取讀取資料
+2026-02-27 18:24:35,316 從快取載入 1053 筆記錄: 20250618
+2026-02-27 18:24:35,318 日期 20250619 已下載過，從快取讀取資料
+2026-02-27 18:24:35,327 從快取載入 1052 筆記錄: 20250619
+2026-02-27 18:24:35,327 日期 20250620 已下載過，從快取讀取資料
+2026-02-27 18:24:35,338 從快取載入 1051 筆記錄: 20250620
+2026-02-27 18:24:35,338 Start download 20250623
+2026-02-27 18:24:35,382 Failed to download 20250623: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250623&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,382 Parsed 0 records for 20250623
+2026-02-27 18:24:35,382 Start download 20250624
+2026-02-27 18:24:35,428 Failed to download 20250624: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250624&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,428 Parsed 0 records for 20250624
+2026-02-27 18:24:35,429 Start download 20250625
+2026-02-27 18:24:35,475 Failed to download 20250625: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250625&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,475 Parsed 0 records for 20250625
+2026-02-27 18:24:35,476 Start download 20250626
+2026-02-27 18:24:35,522 Failed to download 20250626: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250626&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,523 Parsed 0 records for 20250626
+2026-02-27 18:24:35,524 Start download 20250627
+2026-02-27 18:24:35,572 Failed to download 20250627: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250627&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,572 Parsed 0 records for 20250627
+2026-02-27 18:24:35,573 Start download 20250630
+2026-02-27 18:24:35,615 Failed to download 20250630: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250630&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,615 Parsed 0 records for 20250630
+2026-02-27 18:24:35,616 Start download 20250701
+2026-02-27 18:24:35,642 Failed to download 20250701: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250701&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,643 Parsed 0 records for 20250701
+2026-02-27 18:24:35,643 Start download 20250702
+2026-02-27 18:24:35,671 Failed to download 20250702: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250702&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,671 Parsed 0 records for 20250702
+2026-02-27 18:24:35,672 Start download 20250703
+2026-02-27 18:24:35,710 Failed to download 20250703: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250703&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,710 Parsed 0 records for 20250703
+2026-02-27 18:24:35,711 Start download 20250704
+2026-02-27 18:24:35,756 Failed to download 20250704: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250704&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,757 Parsed 0 records for 20250704
+2026-02-27 18:24:35,758 Start download 20250707
+2026-02-27 18:24:35,809 Failed to download 20250707: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250707&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,809 Parsed 0 records for 20250707
+2026-02-27 18:24:35,810 Start download 20250708
+2026-02-27 18:24:35,855 Failed to download 20250708: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250708&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,856 Parsed 0 records for 20250708
+2026-02-27 18:24:35,856 Start download 20250709
+2026-02-27 18:24:35,895 Failed to download 20250709: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250709&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,895 Parsed 0 records for 20250709
+2026-02-27 18:24:35,896 Start download 20250710
+2026-02-27 18:24:35,944 Failed to download 20250710: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250710&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,944 Parsed 0 records for 20250710
+2026-02-27 18:24:35,945 Start download 20250711
+2026-02-27 18:24:35,991 Failed to download 20250711: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250711&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:35,991 Parsed 0 records for 20250711
+2026-02-27 18:24:35,992 Start download 20250714
+2026-02-27 18:24:36,039 Failed to download 20250714: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250714&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,039 Parsed 0 records for 20250714
+2026-02-27 18:24:36,040 Start download 20250715
+2026-02-27 18:24:36,085 Failed to download 20250715: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250715&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,085 Parsed 0 records for 20250715
+2026-02-27 18:24:36,085 Start download 20250716
+2026-02-27 18:24:36,145 Failed to download 20250716: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250716&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,146 Parsed 0 records for 20250716
+2026-02-27 18:24:36,147 Start download 20250717
+2026-02-27 18:24:36,219 Failed to download 20250717: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250717&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,220 Parsed 0 records for 20250717
+2026-02-27 18:24:36,221 Start download 20250718
+2026-02-27 18:24:36,274 Failed to download 20250718: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250718&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,274 Parsed 0 records for 20250718
+2026-02-27 18:24:36,275 Start download 20250721
+2026-02-27 18:24:36,319 Failed to download 20250721: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250721&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,320 Parsed 0 records for 20250721
+2026-02-27 18:24:36,320 Start download 20250722
+2026-02-27 18:24:36,377 Failed to download 20250722: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250722&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,377 Parsed 0 records for 20250722
+2026-02-27 18:24:36,378 Start download 20250723
+2026-02-27 18:24:36,415 Failed to download 20250723: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250723&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,415 Parsed 0 records for 20250723
+2026-02-27 18:24:36,416 Start download 20250724
+2026-02-27 18:24:36,462 Failed to download 20250724: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250724&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,463 Parsed 0 records for 20250724
+2026-02-27 18:24:36,463 Start download 20250725
+2026-02-27 18:24:36,519 Failed to download 20250725: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250725&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,519 Parsed 0 records for 20250725
+2026-02-27 18:24:36,520 Start download 20250728
+2026-02-27 18:24:36,557 Failed to download 20250728: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250728&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,557 Parsed 0 records for 20250728
+2026-02-27 18:24:36,558 Start download 20250729
+2026-02-27 18:24:36,586 Failed to download 20250729: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250729&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,586 Parsed 0 records for 20250729
+2026-02-27 18:24:36,587 Start download 20250730
+2026-02-27 18:24:36,664 Failed to download 20250730: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250730&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,664 Parsed 0 records for 20250730
+2026-02-27 18:24:36,664 Start download 20250731
+2026-02-27 18:24:36,717 Failed to download 20250731: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250731&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,718 Parsed 0 records for 20250731
+2026-02-27 18:24:36,720 Start download 20250801
+2026-02-27 18:24:36,783 Failed to download 20250801: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250801&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,784 Parsed 0 records for 20250801
+2026-02-27 18:24:36,784 Start download 20250804
+2026-02-27 18:24:36,811 Failed to download 20250804: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250804&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,811 Parsed 0 records for 20250804
+2026-02-27 18:24:36,812 Start download 20250805
+2026-02-27 18:24:36,852 Failed to download 20250805: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250805&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,852 Parsed 0 records for 20250805
+2026-02-27 18:24:36,853 Start download 20250806
+2026-02-27 18:24:36,882 Failed to download 20250806: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250806&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,882 Parsed 0 records for 20250806
+2026-02-27 18:24:36,882 Start download 20250807
+2026-02-27 18:24:36,930 Failed to download 20250807: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250807&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,931 Parsed 0 records for 20250807
+2026-02-27 18:24:36,931 Start download 20250808
+2026-02-27 18:24:36,995 Failed to download 20250808: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250808&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:36,995 Parsed 0 records for 20250808
+2026-02-27 18:24:36,996 Start download 20250811
+2026-02-27 18:24:37,043 Failed to download 20250811: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250811&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,043 Parsed 0 records for 20250811
+2026-02-27 18:24:37,044 Start download 20250812
+2026-02-27 18:24:37,088 Failed to download 20250812: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250812&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,089 Parsed 0 records for 20250812
+2026-02-27 18:24:37,089 Start download 20250813
+2026-02-27 18:24:37,137 Failed to download 20250813: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250813&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,137 Parsed 0 records for 20250813
+2026-02-27 18:24:37,138 Start download 20250814
+2026-02-27 18:24:37,167 Failed to download 20250814: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250814&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,167 Parsed 0 records for 20250814
+2026-02-27 18:24:37,167 Start download 20250815
+2026-02-27 18:24:37,214 Failed to download 20250815: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250815&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,215 Parsed 0 records for 20250815
+2026-02-27 18:24:37,215 Start download 20250818
+2026-02-27 18:24:37,263 Failed to download 20250818: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250818&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,264 Parsed 0 records for 20250818
+2026-02-27 18:24:37,264 Start download 20250819
+2026-02-27 18:24:37,293 Failed to download 20250819: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250819&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,293 Parsed 0 records for 20250819
+2026-02-27 18:24:37,294 Start download 20250820
+2026-02-27 18:24:37,354 Failed to download 20250820: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250820&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,355 Parsed 0 records for 20250820
+2026-02-27 18:24:37,356 Start download 20250821
+2026-02-27 18:24:37,392 Failed to download 20250821: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250821&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,393 Parsed 0 records for 20250821
+2026-02-27 18:24:37,393 Start download 20250822
+2026-02-27 18:24:37,423 Failed to download 20250822: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250822&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,423 Parsed 0 records for 20250822
+2026-02-27 18:24:37,424 Start download 20250825
+2026-02-27 18:24:37,458 Failed to download 20250825: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250825&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,458 Parsed 0 records for 20250825
+2026-02-27 18:24:37,459 Start download 20250826
+2026-02-27 18:24:37,492 Failed to download 20250826: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250826&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,493 Parsed 0 records for 20250826
+2026-02-27 18:24:37,493 Start download 20250827
+2026-02-27 18:24:37,525 Failed to download 20250827: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250827&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,526 Parsed 0 records for 20250827
+2026-02-27 18:24:37,526 Start download 20250828
+2026-02-27 18:24:37,557 Failed to download 20250828: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250828&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,557 Parsed 0 records for 20250828
+2026-02-27 18:24:37,558 Start download 20250829
+2026-02-27 18:24:37,594 Failed to download 20250829: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250829&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,594 Parsed 0 records for 20250829
+2026-02-27 18:24:37,595 Start download 20250901
+2026-02-27 18:24:37,649 Failed to download 20250901: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250901&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,649 Parsed 0 records for 20250901
+2026-02-27 18:24:37,650 Start download 20250902
+2026-02-27 18:24:37,676 Failed to download 20250902: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250902&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,676 Parsed 0 records for 20250902
+2026-02-27 18:24:37,676 Start download 20250903
+2026-02-27 18:24:37,735 Failed to download 20250903: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250903&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,736 Parsed 0 records for 20250903
+2026-02-27 18:24:37,737 Start download 20250904
+2026-02-27 18:24:37,786 Failed to download 20250904: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250904&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,786 Parsed 0 records for 20250904
+2026-02-27 18:24:37,787 Start download 20250905
+2026-02-27 18:24:37,847 Failed to download 20250905: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250905&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,848 Parsed 0 records for 20250905
+2026-02-27 18:24:37,849 Start download 20250908
+2026-02-27 18:24:37,900 Failed to download 20250908: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250908&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,901 Parsed 0 records for 20250908
+2026-02-27 18:24:37,901 Start download 20250909
+2026-02-27 18:24:37,950 Failed to download 20250909: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250909&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:37,951 Parsed 0 records for 20250909
+2026-02-27 18:24:37,952 Start download 20250910
+2026-02-27 18:24:38,013 Failed to download 20250910: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250910&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,014 Parsed 0 records for 20250910
+2026-02-27 18:24:38,014 Start download 20250911
+2026-02-27 18:24:38,060 Failed to download 20250911: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250911&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,061 Parsed 0 records for 20250911
+2026-02-27 18:24:38,062 Start download 20250912
+2026-02-27 18:24:38,090 Failed to download 20250912: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250912&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,090 Parsed 0 records for 20250912
+2026-02-27 18:24:38,091 Start download 20250915
+2026-02-27 18:24:38,116 Failed to download 20250915: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250915&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,117 Parsed 0 records for 20250915
+2026-02-27 18:24:38,117 Start download 20250916
+2026-02-27 18:24:38,163 Failed to download 20250916: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250916&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,164 Parsed 0 records for 20250916
+2026-02-27 18:24:38,164 Start download 20250917
+2026-02-27 18:24:38,209 Failed to download 20250917: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250917&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,209 Parsed 0 records for 20250917
+2026-02-27 18:24:38,210 Start download 20250918
+2026-02-27 18:24:38,256 Failed to download 20250918: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250918&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,256 Parsed 0 records for 20250918
+2026-02-27 18:24:38,257 Start download 20250919
+2026-02-27 18:24:38,303 Failed to download 20250919: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250919&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,304 Parsed 0 records for 20250919
+2026-02-27 18:24:38,304 Start download 20250922
+2026-02-27 18:24:38,354 Failed to download 20250922: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250922&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,354 Parsed 0 records for 20250922
+2026-02-27 18:24:38,354 Start download 20250923
+2026-02-27 18:24:38,380 Failed to download 20250923: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250923&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,381 Parsed 0 records for 20250923
+2026-02-27 18:24:38,383 Start download 20250924
+2026-02-27 18:24:38,431 Failed to download 20250924: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250924&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,431 Parsed 0 records for 20250924
+2026-02-27 18:24:38,432 Start download 20250925
+2026-02-27 18:24:38,470 Failed to download 20250925: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250925&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,470 Parsed 0 records for 20250925
+2026-02-27 18:24:38,471 Start download 20250926
+2026-02-27 18:24:38,511 Failed to download 20250926: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250926&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,512 Parsed 0 records for 20250926
+2026-02-27 18:24:38,512 Start download 20250929
+2026-02-27 18:24:38,556 Failed to download 20250929: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250929&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,556 Parsed 0 records for 20250929
+2026-02-27 18:24:38,557 Start download 20250930
+2026-02-27 18:24:38,603 Failed to download 20250930: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20250930&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,603 Parsed 0 records for 20250930
+2026-02-27 18:24:38,604 Start download 20251001
+2026-02-27 18:24:38,634 Failed to download 20251001: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251001&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,635 Parsed 0 records for 20251001
+2026-02-27 18:24:38,635 Start download 20251002
+2026-02-27 18:24:38,696 Failed to download 20251002: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251002&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,697 Parsed 0 records for 20251002
+2026-02-27 18:24:38,697 Start download 20251003
+2026-02-27 18:24:38,743 Failed to download 20251003: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251003&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,743 Parsed 0 records for 20251003
+2026-02-27 18:24:38,744 Start download 20251006
+2026-02-27 18:24:38,771 Failed to download 20251006: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251006&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,771 Parsed 0 records for 20251006
+2026-02-27 18:24:38,772 Start download 20251007
+2026-02-27 18:24:38,820 Failed to download 20251007: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251007&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,821 Parsed 0 records for 20251007
+2026-02-27 18:24:38,821 Start download 20251008
+2026-02-27 18:24:38,882 Failed to download 20251008: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251008&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,882 Parsed 0 records for 20251008
+2026-02-27 18:24:38,883 Start download 20251009
+2026-02-27 18:24:38,929 Failed to download 20251009: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251009&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,930 Parsed 0 records for 20251009
+2026-02-27 18:24:38,930 Start download 20251010
+2026-02-27 18:24:38,975 Failed to download 20251010: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251010&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:38,975 Parsed 0 records for 20251010
+2026-02-27 18:24:38,976 Start download 20251013
+2026-02-27 18:24:39,023 Failed to download 20251013: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251013&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,023 Parsed 0 records for 20251013
+2026-02-27 18:24:39,024 Start download 20251014
+2026-02-27 18:24:39,090 Failed to download 20251014: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251014&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,090 Parsed 0 records for 20251014
+2026-02-27 18:24:39,091 Start download 20251015
+2026-02-27 18:24:39,133 Failed to download 20251015: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251015&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,134 Parsed 0 records for 20251015
+2026-02-27 18:24:39,134 Start download 20251016
+2026-02-27 18:24:39,180 Failed to download 20251016: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251016&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,180 Parsed 0 records for 20251016
+2026-02-27 18:24:39,181 Start download 20251017
+2026-02-27 18:24:39,226 Failed to download 20251017: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251017&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,227 Parsed 0 records for 20251017
+2026-02-27 18:24:39,227 Start download 20251020
+2026-02-27 18:24:39,283 Failed to download 20251020: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251020&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,283 Parsed 0 records for 20251020
+2026-02-27 18:24:39,284 Start download 20251021
+2026-02-27 18:24:39,320 Failed to download 20251021: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251021&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,320 Parsed 0 records for 20251021
+2026-02-27 18:24:39,321 Start download 20251022
+2026-02-27 18:24:39,351 Failed to download 20251022: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251022&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,351 Parsed 0 records for 20251022
+2026-02-27 18:24:39,352 Start download 20251023
+2026-02-27 18:24:39,413 Failed to download 20251023: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251023&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,414 Parsed 0 records for 20251023
+2026-02-27 18:24:39,414 Start download 20251024
+2026-02-27 18:24:39,441 Failed to download 20251024: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251024&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,441 Parsed 0 records for 20251024
+2026-02-27 18:24:39,442 Start download 20251027
+2026-02-27 18:24:39,491 Failed to download 20251027: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251027&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,491 Parsed 0 records for 20251027
+2026-02-27 18:24:39,492 Start download 20251028
+2026-02-27 18:24:39,537 Failed to download 20251028: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251028&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,537 Parsed 0 records for 20251028
+2026-02-27 18:24:39,538 Start download 20251029
+2026-02-27 18:24:39,564 Failed to download 20251029: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251029&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,565 Parsed 0 records for 20251029
+2026-02-27 18:24:39,565 Start download 20251030
+2026-02-27 18:24:39,593 Failed to download 20251030: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251030&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,593 Parsed 0 records for 20251030
+2026-02-27 18:24:39,594 Start download 20251031
+2026-02-27 18:24:39,633 Failed to download 20251031: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251031&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,633 Parsed 0 records for 20251031
+2026-02-27 18:24:39,634 Start download 20251103
+2026-02-27 18:24:39,660 Failed to download 20251103: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251103&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,660 Parsed 0 records for 20251103
+2026-02-27 18:24:39,661 Start download 20251104
+2026-02-27 18:24:39,711 Failed to download 20251104: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251104&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,711 Parsed 0 records for 20251104
+2026-02-27 18:24:39,712 Start download 20251105
+2026-02-27 18:24:39,764 Failed to download 20251105: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251105&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,764 Parsed 0 records for 20251105
+2026-02-27 18:24:39,765 Start download 20251106
+2026-02-27 18:24:39,809 Failed to download 20251106: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251106&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,810 Parsed 0 records for 20251106
+2026-02-27 18:24:39,812 Start download 20251107
+2026-02-27 18:24:39,877 Failed to download 20251107: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251107&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,877 Parsed 0 records for 20251107
+2026-02-27 18:24:39,878 Start download 20251110
+2026-02-27 18:24:39,929 Failed to download 20251110: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251110&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,930 Parsed 0 records for 20251110
+2026-02-27 18:24:39,931 Start download 20251111
+2026-02-27 18:24:39,977 Failed to download 20251111: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251111&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:39,977 Parsed 0 records for 20251111
+2026-02-27 18:24:39,978 Start download 20251112
+2026-02-27 18:24:40,033 Failed to download 20251112: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251112&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,034 Parsed 0 records for 20251112
+2026-02-27 18:24:40,035 Start download 20251113
+2026-02-27 18:24:40,094 Failed to download 20251113: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251113&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,094 Parsed 0 records for 20251113
+2026-02-27 18:24:40,095 Start download 20251114
+2026-02-27 18:24:40,163 Failed to download 20251114: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251114&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,164 Parsed 0 records for 20251114
+2026-02-27 18:24:40,164 Start download 20251117
+2026-02-27 18:24:40,214 Failed to download 20251117: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251117&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,214 Parsed 0 records for 20251117
+2026-02-27 18:24:40,215 Start download 20251118
+2026-02-27 18:24:40,258 Failed to download 20251118: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251118&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,258 Parsed 0 records for 20251118
+2026-02-27 18:24:40,258 Start download 20251119
+2026-02-27 18:24:40,304 Failed to download 20251119: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251119&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,305 Parsed 0 records for 20251119
+2026-02-27 18:24:40,305 Start download 20251120
+2026-02-27 18:24:40,332 Failed to download 20251120: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251120&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,332 Parsed 0 records for 20251120
+2026-02-27 18:24:40,333 Start download 20251121
+2026-02-27 18:24:40,368 Failed to download 20251121: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251121&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,368 Parsed 0 records for 20251121
+2026-02-27 18:24:40,369 Start download 20251124
+2026-02-27 18:24:40,413 Failed to download 20251124: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251124&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,414 Parsed 0 records for 20251124
+2026-02-27 18:24:40,414 Start download 20251125
+2026-02-27 18:24:40,459 Failed to download 20251125: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251125&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,460 Parsed 0 records for 20251125
+2026-02-27 18:24:40,460 Start download 20251126
+2026-02-27 18:24:40,515 Failed to download 20251126: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251126&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,515 Parsed 0 records for 20251126
+2026-02-27 18:24:40,516 Start download 20251127
+2026-02-27 18:24:40,555 Failed to download 20251127: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251127&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,555 Parsed 0 records for 20251127
+2026-02-27 18:24:40,556 Start download 20251128
+2026-02-27 18:24:40,602 Failed to download 20251128: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251128&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,602 Parsed 0 records for 20251128
+2026-02-27 18:24:40,603 Start download 20251201
+2026-02-27 18:24:40,651 Failed to download 20251201: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251201&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,651 Parsed 0 records for 20251201
+2026-02-27 18:24:40,652 Start download 20251202
+2026-02-27 18:24:40,698 Failed to download 20251202: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251202&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,698 Parsed 0 records for 20251202
+2026-02-27 18:24:40,699 Start download 20251203
+2026-02-27 18:24:40,753 Failed to download 20251203: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251203&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,753 Parsed 0 records for 20251203
+2026-02-27 18:24:40,754 Start download 20251204
+2026-02-27 18:24:40,791 Failed to download 20251204: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251204&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,791 Parsed 0 records for 20251204
+2026-02-27 18:24:40,792 Start download 20251205
+2026-02-27 18:24:40,837 Failed to download 20251205: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251205&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,838 Parsed 0 records for 20251205
+2026-02-27 18:24:40,838 Start download 20251208
+2026-02-27 18:24:40,883 Failed to download 20251208: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251208&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,883 Parsed 0 records for 20251208
+2026-02-27 18:24:40,883 Start download 20251209
+2026-02-27 18:24:40,943 Failed to download 20251209: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251209&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,943 Parsed 0 records for 20251209
+2026-02-27 18:24:40,946 Start download 20251210
+2026-02-27 18:24:40,993 Failed to download 20251210: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251210&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:40,993 Parsed 0 records for 20251210
+2026-02-27 18:24:40,994 Start download 20251211
+2026-02-27 18:24:41,037 Failed to download 20251211: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251211&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,038 Parsed 0 records for 20251211
+2026-02-27 18:24:41,038 Start download 20251212
+2026-02-27 18:24:41,065 Failed to download 20251212: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251212&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,066 Parsed 0 records for 20251212
+2026-02-27 18:24:41,067 Start download 20251215
+2026-02-27 18:24:41,116 Failed to download 20251215: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251215&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,116 Parsed 0 records for 20251215
+2026-02-27 18:24:41,117 Start download 20251216
+2026-02-27 18:24:41,178 Failed to download 20251216: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251216&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,179 Parsed 0 records for 20251216
+2026-02-27 18:24:41,180 Start download 20251217
+2026-02-27 18:24:41,227 Failed to download 20251217: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251217&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,228 Parsed 0 records for 20251217
+2026-02-27 18:24:41,228 Start download 20251218
+2026-02-27 18:24:41,255 Failed to download 20251218: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251218&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,255 Parsed 0 records for 20251218
+2026-02-27 18:24:41,256 Start download 20251219
+2026-02-27 18:24:41,304 Failed to download 20251219: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251219&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,305 Parsed 0 records for 20251219
+2026-02-27 18:24:41,305 Start download 20251222
+2026-02-27 18:24:41,353 Failed to download 20251222: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251222&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,353 Parsed 0 records for 20251222
+2026-02-27 18:24:41,354 Start download 20251223
+2026-02-27 18:24:41,397 Failed to download 20251223: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251223&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,398 Parsed 0 records for 20251223
+2026-02-27 18:24:41,398 Start download 20251224
+2026-02-27 18:24:41,446 Failed to download 20251224: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251224&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,446 Parsed 0 records for 20251224
+2026-02-27 18:24:41,447 Start download 20251225
+2026-02-27 18:24:41,512 Failed to download 20251225: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251225&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,512 Parsed 0 records for 20251225
+2026-02-27 18:24:41,513 Start download 20251226
+2026-02-27 18:24:41,557 Failed to download 20251226: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251226&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,557 Parsed 0 records for 20251226
+2026-02-27 18:24:41,558 Start download 20251229
+2026-02-27 18:24:41,622 Failed to download 20251229: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251229&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,622 Parsed 0 records for 20251229
+2026-02-27 18:24:41,623 Start download 20251230
+2026-02-27 18:24:41,653 Failed to download 20251230: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251230&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,653 Parsed 0 records for 20251230
+2026-02-27 18:24:41,653 Start download 20251231
+2026-02-27 18:24:41,698 Failed to download 20251231: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20251231&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,698 Parsed 0 records for 20251231
+2026-02-27 18:24:41,699 Start download 20260101
+2026-02-27 18:24:41,747 Failed to download 20260101: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260101&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,747 Parsed 0 records for 20260101
+2026-02-27 18:24:41,748 日期 20260102 已下載過，從快取讀取資料
+2026-02-27 18:24:41,748 快取資料不存在，重新下載: 20260102
+2026-02-27 18:24:41,749 Start download 20260102
+2026-02-27 18:24:41,793 Failed to download 20260102: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260102&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,794 Parsed 0 records for 20260102
+2026-02-27 18:24:41,794 日期 20260105 已下載過，從快取讀取資料
+2026-02-27 18:24:41,795 快取資料不存在，重新下載: 20260105
+2026-02-27 18:24:41,795 Start download 20260105
+2026-02-27 18:24:41,841 Failed to download 20260105: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260105&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,841 Parsed 0 records for 20260105
+2026-02-27 18:24:41,842 日期 20260106 已下載過，從快取讀取資料
+2026-02-27 18:24:41,843 快取資料不存在，重新下載: 20260106
+2026-02-27 18:24:41,843 Start download 20260106
+2026-02-27 18:24:41,871 Failed to download 20260106: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260106&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,872 Parsed 0 records for 20260106
+2026-02-27 18:24:41,872 日期 20260107 已下載過，從快取讀取資料
+2026-02-27 18:24:41,873 快取資料不存在，重新下載: 20260107
+2026-02-27 18:24:41,873 Start download 20260107
+2026-02-27 18:24:41,901 Failed to download 20260107: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260107&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,901 Parsed 0 records for 20260107
+2026-02-27 18:24:41,902 日期 20260108 已下載過，從快取讀取資料
+2026-02-27 18:24:41,902 快取資料不存在，重新下載: 20260108
+2026-02-27 18:24:41,903 Start download 20260108
+2026-02-27 18:24:41,954 Failed to download 20260108: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260108&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,954 Parsed 0 records for 20260108
+2026-02-27 18:24:41,955 日期 20260109 已下載過，從快取讀取資料
+2026-02-27 18:24:41,955 快取資料不存在，重新下載: 20260109
+2026-02-27 18:24:41,956 Start download 20260109
+2026-02-27 18:24:41,983 Failed to download 20260109: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260109&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:41,983 Parsed 0 records for 20260109
+2026-02-27 18:24:41,984 日期 20260112 已下載過，從快取讀取資料
+2026-02-27 18:24:41,984 快取資料不存在，重新下載: 20260112
+2026-02-27 18:24:41,985 Start download 20260112
+2026-02-27 18:24:42,013 Failed to download 20260112: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260112&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,014 Parsed 0 records for 20260112
+2026-02-27 18:24:42,014 日期 20260113 已下載過，從快取讀取資料
+2026-02-27 18:24:42,015 快取資料不存在，重新下載: 20260113
+2026-02-27 18:24:42,016 Start download 20260113
+2026-02-27 18:24:42,062 Failed to download 20260113: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260113&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,063 Parsed 0 records for 20260113
+2026-02-27 18:24:42,063 日期 20260114 已下載過，從快取讀取資料
+2026-02-27 18:24:42,064 快取資料不存在，重新下載: 20260114
+2026-02-27 18:24:42,064 Start download 20260114
+2026-02-27 18:24:42,109 Failed to download 20260114: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260114&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,110 Parsed 0 records for 20260114
+2026-02-27 18:24:42,110 日期 20260115 已下載過，從快取讀取資料
+2026-02-27 18:24:42,111 快取資料不存在，重新下載: 20260115
+2026-02-27 18:24:42,111 Start download 20260115
+2026-02-27 18:24:42,140 Failed to download 20260115: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260115&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,141 Parsed 0 records for 20260115
+2026-02-27 18:24:42,142 日期 20260116 已下載過，從快取讀取資料
+2026-02-27 18:24:42,143 快取資料不存在，重新下載: 20260116
+2026-02-27 18:24:42,144 Start download 20260116
+2026-02-27 18:24:42,189 Failed to download 20260116: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260116&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,189 Parsed 0 records for 20260116
+2026-02-27 18:24:42,190 日期 20260119 已下載過，從快取讀取資料
+2026-02-27 18:24:42,190 快取資料不存在，重新下載: 20260119
+2026-02-27 18:24:42,191 Start download 20260119
+2026-02-27 18:24:42,218 Failed to download 20260119: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260119&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,218 Parsed 0 records for 20260119
+2026-02-27 18:24:42,219 日期 20260120 已下載過，從快取讀取資料
+2026-02-27 18:24:42,220 快取資料不存在，重新下載: 20260120
+2026-02-27 18:24:42,221 Start download 20260120
+2026-02-27 18:24:42,285 Failed to download 20260120: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260120&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,286 Parsed 0 records for 20260120
+2026-02-27 18:24:42,286 日期 20260121 已下載過，從快取讀取資料
+2026-02-27 18:24:42,287 快取資料不存在，重新下載: 20260121
+2026-02-27 18:24:42,287 Start download 20260121
+2026-02-27 18:24:42,315 Failed to download 20260121: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260121&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,315 Parsed 0 records for 20260121
+2026-02-27 18:24:42,316 Start download 20260122
+2026-02-27 18:24:42,350 Failed to download 20260122: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260122&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,350 Parsed 0 records for 20260122
+2026-02-27 18:24:42,351 日期 20260123 已下載過，從快取讀取資料
+2026-02-27 18:24:42,351 快取資料不存在，重新下載: 20260123
+2026-02-27 18:24:42,352 Start download 20260123
+2026-02-27 18:24:42,381 Failed to download 20260123: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260123&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,381 Parsed 0 records for 20260123
+2026-02-27 18:24:42,382 日期 20260126 已下載過，從快取讀取資料
+2026-02-27 18:24:42,383 快取資料不存在，重新下載: 20260126
+2026-02-27 18:24:42,383 Start download 20260126
+2026-02-27 18:24:42,414 Failed to download 20260126: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260126&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,414 Parsed 0 records for 20260126
+2026-02-27 18:24:42,415 日期 20260127 已下載過，從快取讀取資料
+2026-02-27 18:24:42,415 快取資料不存在，重新下載: 20260127
+2026-02-27 18:24:42,416 Start download 20260127
+2026-02-27 18:24:42,461 Failed to download 20260127: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260127&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,461 Parsed 0 records for 20260127
+2026-02-27 18:24:42,462 Start download 20260128
+2026-02-27 18:24:42,509 Failed to download 20260128: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260128&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,509 Parsed 0 records for 20260128
+2026-02-27 18:24:42,510 日期 20260129 已下載過，從快取讀取資料
+2026-02-27 18:24:42,510 快取資料不存在，重新下載: 20260129
+2026-02-27 18:24:42,511 Start download 20260129
+2026-02-27 18:24:42,542 Failed to download 20260129: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260129&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,543 Parsed 0 records for 20260129
+2026-02-27 18:24:42,543 日期 20260130 已下載過，從快取讀取資料
+2026-02-27 18:24:42,544 快取資料不存在，重新下載: 20260130
+2026-02-27 18:24:42,544 Start download 20260130
+2026-02-27 18:24:42,574 Failed to download 20260130: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260130&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,575 Parsed 0 records for 20260130
+2026-02-27 18:24:42,575 日期 20260202 已下載過，從快取讀取資料
+2026-02-27 18:24:42,576 快取資料不存在，重新下載: 20260202
+2026-02-27 18:24:42,576 Start download 20260202
+2026-02-27 18:24:42,604 Failed to download 20260202: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260202&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,605 Parsed 0 records for 20260202
+2026-02-27 18:24:42,605 日期 20260203 已下載過，從快取讀取資料
+2026-02-27 18:24:42,606 快取資料不存在，重新下載: 20260203
+2026-02-27 18:24:42,606 Start download 20260203
+2026-02-27 18:24:42,632 Failed to download 20260203: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260203&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,633 Parsed 0 records for 20260203
+2026-02-27 18:24:42,633 日期 20260204 已下載過，從快取讀取資料
+2026-02-27 18:24:42,634 快取資料不存在，重新下載: 20260204
+2026-02-27 18:24:42,635 Start download 20260204
+2026-02-27 18:24:42,682 Failed to download 20260204: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260204&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,683 Parsed 0 records for 20260204
+2026-02-27 18:24:42,683 日期 20260205 已下載過，從快取讀取資料
+2026-02-27 18:24:42,684 快取資料不存在，重新下載: 20260205
+2026-02-27 18:24:42,684 Start download 20260205
+2026-02-27 18:24:42,732 Failed to download 20260205: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260205&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,732 Parsed 0 records for 20260205
+2026-02-27 18:24:42,732 日期 20260206 已下載過，從快取讀取資料
+2026-02-27 18:24:42,733 快取資料不存在，重新下載: 20260206
+2026-02-27 18:24:42,733 Start download 20260206
+2026-02-27 18:24:42,777 Failed to download 20260206: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260206&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,777 Parsed 0 records for 20260206
+2026-02-27 18:24:42,778 日期 20260209 已下載過，從快取讀取資料
+2026-02-27 18:24:42,779 快取資料不存在，重新下載: 20260209
+2026-02-27 18:24:42,779 Start download 20260209
+2026-02-27 18:24:42,825 Failed to download 20260209: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260209&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,825 Parsed 0 records for 20260209
+2026-02-27 18:24:42,826 日期 20260210 已下載過，從快取讀取資料
+2026-02-27 18:24:42,826 快取資料不存在，重新下載: 20260210
+2026-02-27 18:24:42,827 Start download 20260210
+2026-02-27 18:24:42,873 Failed to download 20260210: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260210&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,873 Parsed 0 records for 20260210
+2026-02-27 18:24:42,874 日期 20260211 已下載過，從快取讀取資料
+2026-02-27 18:24:42,874 快取資料不存在，重新下載: 20260211
+2026-02-27 18:24:42,875 Start download 20260211
+2026-02-27 18:24:42,918 Failed to download 20260211: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260211&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,918 Parsed 0 records for 20260211
+2026-02-27 18:24:42,919 Start download 20260212
+2026-02-27 18:24:42,966 Failed to download 20260212: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260212&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,967 Parsed 0 records for 20260212
+2026-02-27 18:24:42,967 Start download 20260213
+2026-02-27 18:24:42,993 Failed to download 20260213: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260213&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:42,994 Parsed 0 records for 20260213
+2026-02-27 18:24:42,994 Start download 20260216
+2026-02-27 18:24:43,022 Failed to download 20260216: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260216&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,023 Parsed 0 records for 20260216
+2026-02-27 18:24:43,023 Start download 20260217
+2026-02-27 18:24:43,051 Failed to download 20260217: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260217&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,051 Parsed 0 records for 20260217
+2026-02-27 18:24:43,052 Start download 20260218
+2026-02-27 18:24:43,095 Failed to download 20260218: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260218&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,096 Parsed 0 records for 20260218
+2026-02-27 18:24:43,096 Start download 20260219
+2026-02-27 18:24:43,124 Failed to download 20260219: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260219&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,125 Parsed 0 records for 20260219
+2026-02-27 18:24:43,125 Start download 20260220
+2026-02-27 18:24:43,151 Failed to download 20260220: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260220&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,152 Parsed 0 records for 20260220
+2026-02-27 18:24:43,152 日期 20260223 已下載過，從快取讀取資料
+2026-02-27 18:24:43,153 快取資料不存在，重新下載: 20260223
+2026-02-27 18:24:43,153 Start download 20260223
+2026-02-27 18:24:43,182 Failed to download 20260223: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260223&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,182 Parsed 0 records for 20260223
+2026-02-27 18:24:43,183 日期 20260224 已下載過，從快取讀取資料
+2026-02-27 18:24:43,184 快取資料不存在，重新下載: 20260224
+2026-02-27 18:24:43,184 Start download 20260224
+2026-02-27 18:24:43,235 Failed to download 20260224: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260224&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,236 Parsed 0 records for 20260224
+2026-02-27 18:24:43,236 日期 20260225 已下載過，從快取讀取資料
+2026-02-27 18:24:43,237 快取資料不存在，重新下載: 20260225
+2026-02-27 18:24:43,237 Start download 20260225
+2026-02-27 18:24:43,283 Failed to download 20260225: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260225&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,284 Parsed 0 records for 20260225
+2026-02-27 18:24:43,284 日期 20260226 已下載過，從快取讀取資料
+2026-02-27 18:24:43,285 快取資料不存在，重新下載: 20260226
+2026-02-27 18:24:43,285 Start download 20260226
+2026-02-27 18:24:43,317 Failed to download 20260226: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /exchangeReport/MI_INDEX?response=csv&date=20260226&type=ALL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+2026-02-27 18:24:43,317 Parsed 0 records for 20260226
+2026-02-27 18:24:43,318 有效資料日期數: 53
+2026-02-27 18:24:46,236 Saved price records to d:\Python\Work\TWStockHighLowViewer\output\台股最高價紀錄_20250407_20260226.xlsx
+2026-02-27 18:24:46,298 Saved comparison results to d:\Python\Work\TWStockHighLowViewer\output\台股創新高比較_20250526_20260226.xlsx
+2026-02-27 18:24:46,298 Analysis complete
