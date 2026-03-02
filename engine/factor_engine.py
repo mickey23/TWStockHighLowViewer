@@ -1,22 +1,16 @@
-from factors.breakout import breakout_factor
-from factors.ma_cross import ma_cross_factor
-from factors.rsi_factor import rsi_factor
+# -*- coding: utf-8 -*-
+import pandas as pd
 
-def volume_factor(df):
-
-    df["Vol20"] = df["Volume"].rolling(20).mean()
-
-    if df["Volume"].iloc[-1] > df["Vol20"].iloc[-1]:
-        return 100
-
-    return 30
-
-
-def calculate_factors(df):
-
-    return {
-        "Breakout": breakout_factor(df),
-        "MA_Cross": ma_cross_factor(df),
-        "RSI": rsi_factor(df),
-        "Volume": volume_factor(df)
-    }
+def calculate_factors(stock_data):
+    df_result = pd.DataFrame()
+    for stock, df in stock_data.items():
+        if df.empty: 
+            continue
+        df_factor = pd.DataFrame({
+            "股票代號": stock,
+            "MA5": df['Close'].rolling(5).mean().iloc[-1],
+            "MA20": df['Close'].rolling(20).mean().iloc[-1],
+            "MA60": df['Close'].rolling(60).mean().iloc[-1]
+        }, index=[0])
+        df_result = pd.concat([df_result, df_factor], ignore_index=True)
+    return df_result

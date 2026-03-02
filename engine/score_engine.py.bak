@@ -1,0 +1,31 @@
+import numpy as np
+
+def calculate_score(df):
+
+    latest = df.iloc[-1]
+    score = 0
+
+    # 多頭排列
+    if latest["MA20"] > latest["MA50"] > latest["MA200"]:
+        score += 25
+
+    # RSI健康
+    if 50 < latest["RSI"] < 70:
+        score += 15
+
+    # 動量
+    if latest["報酬率_20日"] > 0:
+        score += 20
+
+    if latest["報酬率_60日"] > 0:
+        score += 20
+
+    # 量能
+    if latest["Volume"] > df["Volume"].rolling(20).mean().iloc[-1]:
+        score += 10
+
+    # 接近新高
+    if latest["Close"] > latest["一年最高"] * 0.9:
+        score += 10
+
+    return score
