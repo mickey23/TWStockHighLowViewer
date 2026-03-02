@@ -1,16 +1,9 @@
 # -*- coding: utf-8 -*-
-import pandas as pd
-
-def calculate_factors(stock_data):
-    df_result = pd.DataFrame()
-    for stock, df in stock_data.items():
-        if df.empty: 
-            continue
-        df_factor = pd.DataFrame({
-            "股票代號": stock,
-            "MA5": df['Close'].rolling(5).mean().iloc[-1],
-            "MA20": df['Close'].rolling(20).mean().iloc[-1],
-            "MA60": df['Close'].rolling(60).mean().iloc[-1]
-        }, index=[0])
-        df_result = pd.concat([df_result, df_factor], ignore_index=True)
-    return df_result
+def calculate_factors(df):
+    """短期因子計算"""
+    df = df.copy()
+    f = {}
+    if "Close" in df:
+        f["短期均線"] = df["Close"].rolling(5).mean().iloc[-1]
+        f["突破"] = 1 if df["Close"].iloc[-1] > df["Close"].max() else 0
+    return f

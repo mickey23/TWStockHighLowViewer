@@ -1,19 +1,21 @@
-import os
+# -*- coding: utf-8 -*-
 import streamlit as st
 import pandas as pd
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from update_master import main
 
-st.title("📈 雙策略量化選股系統")
+st.set_page_config(page_title="台股自動量化掃描機", layout="wide")
+st.title("📈 台股自動量化掃描機 v3.5")
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(BASE_DIR, "..", "master_long_term.csv")
-
-long_df=pd.read_csv(file_path)
-
-file_path = os.path.join(BASE_DIR, "..", "master_short_term.csv")
-short_df=pd.read_csv(file_path)
-
-st.header("🅰 長期投資排行")
-st.dataframe(long_df.head(10))
-
-st.header("🅱 短線強勢排行")
-st.dataframe(short_df.head(10))
+if st.button("執行量化掃描"):
+    st.info("開始執行量化掃描...")
+    main()
+    if os.path.exists("stock_scan_result.csv"):
+        st.success("掃描完成！")
+        df = pd.read_csv("stock_scan_result.csv", encoding="utf-8-sig")
+        st.dataframe(df)
+        st.download_button("下載結果 CSV", data=df.to_csv(index=False, encoding="utf-8-sig"), file_name="stock_scan_result.csv")
+    else:
+        st.error("掃描失敗，請檢查 log。")
