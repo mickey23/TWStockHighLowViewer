@@ -1,0 +1,65 @@
+import requests
+import pandas as pd
+
+
+def get_twse_list():
+    """
+    取得上市股票 (TWSE)
+    """
+
+    url = "https://isin.twse.com.tw/isin/C_public.jsp?strMode=2"
+
+    res = requests.get(url)
+    res.encoding = "big5"
+
+    tables = pd.read_html(res.text)
+
+    df = tables[0]
+    df = df.iloc[1:]  # 移除標題列
+
+    df.columns = df.iloc[0]
+    df = df[1:]
+
+    df = df[df["市場別"] == "上市"]
+
+    df["股票代號"] = df["有價證券代號及名稱"].str.split("　").str[0]
+
+    return df["股票代號"].tolist()
+
+
+def get_tpex_list():
+    """
+    取得上櫃股票 (TPEx)
+    """
+
+    url = "https://isin.twse.com.tw/isin/C_public.jsp?strMode=4"
+
+    res = requests.get(url)
+    res.encoding = "big5"
+
+    tables = pd.read_html(res.text)
+
+    df = tables[0]
+    df = df.iloc[1:]
+
+    df.columns = df.iloc[0]
+    df = df[1:]
+
+    df = df[df["市場別"] == "上櫃"]
+
+    df["股票代號"] = df["有價證券代號及名稱"].str.split("　").str[0]
+
+    return df["股票代號"].tolist()
+
+
+def get_all_taiwan_stocks():
+
+    twse = get_twse_list()
+    tpex = get_tpex_list()
+
+    all_stocks = list(set(twse + tpex))
+
+    # 只保留4位數股票
+    all_stocks = [s for s in all_stocks if s.isdigit() and len(s) == 4]
+
+    return sorted(all_stocks)

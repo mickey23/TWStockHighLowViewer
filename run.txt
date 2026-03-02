@@ -1,0 +1,2 @@
+python update_master.py
+streamlit run webapp/app.py

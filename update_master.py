@@ -1,70 +1,80 @@
-import os
 import pandas as pd
-import requests
-import json
-from datetime import datetime
-from engine.factor_engine import calculate_factors
-from engine.ranking import score_stock
-from engine.walkforward import walk_forward
-from engine.portfolio_simulator import simulate_portfolio
+from engine.stock_list_fetcher import get_all_taiwan_stocks
+from engine.data_fetcher import fetch_all
+from engine.market_filter import filter_top_volume
 
-DATA_DIR = "data"
-OUTPUT_DIR = "output"
-
-def load_stock_list():
-    with open("stock_list.txt") as f:
-        return [x.strip() for x in f if x.strip()]
-
-def download_data(stock):
-    url = f"https://query1.finance.yahoo.com/v7/finance/download/{stock}.TW?period1=0&period2=9999999999&interval=1d&events=history"
-    r = requests.get(url)
-    path = f"{DATA_DIR}/{stock}.csv"
-    with open(path, "wb") as f:
-        f.write(r.content)
-    return path
+# 假設你已經有這些模組
+from engine.factor_engine_long import calculate_factors_long
+from engine.factor_engine_short import calculate_factors_short
+from engine.scoring_engine import calculate_score
+from engine.backtest_engine import backtest_simple
+from engine.ai_engine import predict_price
 
 def main():
+    print("🚀 取得全市場股票清單...")
+    stocks = get_all_taiwan_stocks()
 
-    os.makedirs(DATA_DIR, exist_ok=True)
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    print("⚡ 多線程下載中...")
+    stock_data = fetch_all(stocks, max_workers=10)
 
-    stocks = load_stock_list()
+    print("📊 篩選成交量前500名...")
+    top_stocks = filter_top_volume(stock_data, top_n=500)
 
-    all_scores = {}
-    ranking = []
+    long_results = []
+    short_results = []
 
-    for s in stocks:
+    for stock in top_stocks:
+        df = stock_data[stock]
+        if df is None or len(df) < 200:
+            continue
 
-        path = download_data(s)
-        df = pd.read_csv(path)
+        # 長期
+        f_long = calculate_factors_long(df)
+        score_long = calculate_score(f_long)
+        back_long = backtest_simple(df, 50, 200)
+        pred = predict_price(df)
 
-        factors = calculate_factors(df)
-        score = score_stock(factors)
+        long_results.append({
+            "Stock": stock,
+            **f_long,
+            "Score": score_long,
+            "Backtest(%)": back_long,
+            "PredictedPrice": pred
+        })
 
-        all_scores[s] = factors
-        ranking.append((s, score))
+        # 短期
+        f_short = calculate_factors_short(df)
+        score_short = calculate_score(f_short)
+        back_short = backtest_simple(df, 5, 20)
 
-    ranking.sort(key=lambda x: x[1], reverse=True)
-    top10 = ranking[:10]
+        short_results.append({
+            "Stock": stock,
+            **f_short,
+            "Score": score_short,
+            "Backtest(%)": back_short,
+            "PredictedPrice": pred
+        })
 
-    with open(f"{OUTPUT_DIR}/factor_scores.json", "w") as f:
-        json.dump(all_scores, f, indent=4)
+    df_long = pd.DataFrame(long_results)
 
-    with open(f"{OUTPUT_DIR}/ranking.json", "w") as f:
-        json.dump(top10, f, indent=4)
+    if not df_long.empty and "Score" in df_long.columns:
+        df_long = df_long.sort_values("Score", ascending=False)
+        df_long.to_csv("master_long_term.csv", index=False)
+        print("✅ 已產生 master_long_term.csv")
+    else:
+        print("⚠ 長期結果為空，未產生檔案")
 
-    # 模擬前10組合
-    returns = []
+    df_short = pd.DataFrame(short_results)
 
-    for stock, _ in top10:
-        df = pd.read_csv(f"{DATA_DIR}/{stock}.csv")
-        wf = walk_forward(df)
-        returns.extend(wf)
+    if not df_short.empty and "Score" in df_short.columns:
+        df_short = df_short.sort_values("Score", ascending=False)
+        df_short.to_csv("master_short_term.csv", index=False)
+        print("✅ 已產生 master_short_term.csv")
+    else:
+        print("⚠ 短期結果為空，未產生檔案")
 
-    stats = simulate_portfolio(returns)
 
-    with open(f"{OUTPUT_DIR}/portfolio_stats.json", "w") as f:
-        json.dump(stats, f, indent=4)
+    print("\n🔥 完成！已產生長短期排行榜")
 
 if __name__ == "__main__":
     main()
